@@ -293,7 +293,7 @@ width: 1230px;
   
 }
 
-.projects-item:not(:last-child) {
+.projects-item:not(:nth-child(3n)) {
   margin-right: 30px;
 }
 
